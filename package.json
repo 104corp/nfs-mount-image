@@ -1,0 +1,16 @@
+{
+  "name": "nfs-download-api",
+  "version": "1.0.0",
+  "description": "API to download latest tgz file from NFS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
